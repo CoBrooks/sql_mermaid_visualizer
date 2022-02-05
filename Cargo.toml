@@ -2,6 +2,13 @@
 name = "sql_mermaid_visualizer"
 version = "0.1.0"
 edition = "2018"
+repository = "https://github.com/CoBrooks/sql_mermaid_visualizer"
+license = "MIT"
+license-file = "LICENSE"
+description = """
+A very simple tool written in Rust that takes PostgreSQL database files
+and generates a [Mermaid](https://mermaid-js.github.io/mermaid) entity relationship diagram.
+"""
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [[bin]]

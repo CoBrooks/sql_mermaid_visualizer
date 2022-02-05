@@ -10,7 +10,8 @@ This project is published to [crates.io](https://crates.io/crates/sql_mermaid_vi
 $ cargo install sql_mermaid_visualizer 
 ```
 If you do not have cargo, the installation steps can be found 
-[here](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+[here](https://doc.rust-lang.org/cargo/getting-started/installation.html).
+Additionally, make sure `~/.cargo/bin/` is in your PATH.
 
 ## Usage
 
